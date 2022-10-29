@@ -31,11 +31,13 @@ NOTE: GIF compression may result in blurring, fragmentation and unwanted element
 
 <img width="955" alt="3rd" src="https://user-images.githubusercontent.com/63224718/198816813-35605290-84f0-4497-bddf-9f1b8a0e7656.png">
 
-###To run this model
+### To run this model
+
 Open the environment, install the required libraries and code -
 streamlit run app.py
 
-###Note 
+### Note 
+
 similarity.pkl file is missing because it could not be uploaded as its size is big. If anyone requires it, I can send them. 
 
 ### Designed and Developed - Rahul Kumar.
