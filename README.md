@@ -5,6 +5,18 @@ This is a recommendation system which works on ``content based filtering`` metho
 
 ### Python | Machine Learning | Streamlit | Jupyter | Content-Based filtering
 
+## Libraires 
+1. pandas
+2. numpy 
+3. sklearn
+4. CountVectorizer
+5. nltk
+6. PorterStemmer
+7. cosine_similarity
+8. pickle
+9. streamlit
+10. request
+
 ## Dataset
 https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 This contains 5000 movie dataset
